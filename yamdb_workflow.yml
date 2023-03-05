@@ -43,6 +43,7 @@ jobs:
           uses: docker/build-push-action@v2 
           with:
             push: true
+            file: api_yamdb/Dockerfile
             tags: marinachernykh/api_yamdb_web:latest
   deploy:
     runs-on: ubuntu-latest
