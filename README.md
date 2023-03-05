@@ -76,3 +76,5 @@ docker-compose exec web python manage.py collectstatic --no-input
 ## Документация и примеры запросов к API
 Запустив проект, вы сможете ознакомиться с детальной документацией по YaMDb, представленной в формате Redoc, по адресу:
 <http://127.0.0.1:8000/redoc/>
+
+![workflow](https://github.com/MarinaChernykh/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
