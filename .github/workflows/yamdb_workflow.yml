@@ -1,4 +1,4 @@
-name: Django-app workflow
+name: YAMDB_workflow
 
 on: [push]
 
@@ -38,7 +38,7 @@ jobs:
         - name: Push to Docker Hub
           uses: docker/build-push-action@v2 
           with:
-            file: api_yamdb/Dockerfile
+            context: ./api_yamdb/
             tags: marinachernykh/api_yamdb_web:latest
             push: true
 
