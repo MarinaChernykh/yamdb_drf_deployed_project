@@ -1,4 +1,9 @@
 [![YaMDB_Status](https://github.com/MarinaChernykh/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/MarinaChernykh/yamdb_final/actions/workflows/yamdb_workflow.yml)
+
+### Адрес сайта:
+http://84.252.142.125/
+
+### Пример адреса одной из страниц (произведения):
 http://84.252.142.125/api/v1/titles/
 
 # Проект YaMDb  
