@@ -1,4 +1,5 @@
 [![YaMDB_Status](https://github.com/MarinaChernykh/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/MarinaChernykh/yamdb_final/actions/workflows/yamdb_workflow.yml)
+http://84.252.142.125/api/v1/titles/
 
 # Проект YaMDb  
 
